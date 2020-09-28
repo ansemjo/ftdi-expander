@@ -26,7 +26,7 @@ conveniently. But this also meant that I couldn't use standard cables .. until n
 
 ## The Expander
 
-See the [schematics](https://raw.githubusercontent.com/ansemjo/ftdi-expander/master/schematics.pdf).
+See the [schematics](https://raw.githubusercontent.com/ansemjo/ftdi-expander/main/schematics.pdf).
 
 <img width="400px" src="render.jpg" alt="A rendering of the circuit board from KiCad.">
 <img width="400px" src="bundleofwires.jpg" alt="The finished board plugged into the Adafruit adapter lying on a bundle of cables.">
